@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/load_process.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{341,451},{43,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,40}</string>
+			</dict>
+			<key>res/load_process_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{103,451},{97,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,55}</string>
+			</dict>
+			<key>res/button.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{382,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{382,123}</string>
+			</dict>
+			<key>res/check_box_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{290,464},{49,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{49,47}</string>
+			</dict>
+			<key>res/check_box_flag.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,451},{31,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,26}</string>
+			</dict>
+			<key>res/LoginBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,215},{86,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,94}</string>
+			</dict>
+			<key>res/LoginFrame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{385,1},{106,359}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{106,359}</string>
+			</dict>
+			<key>res/text_account.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{295,362},{175,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,87}</string>
+			</dict>
+			<key>res/text_choose_server.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,126},{175,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{175,87}</string>
+			</dict>
+			<key>res/text_login.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,362},{292,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{292,87}</string>
+			</dict>
+			<key>res/text_password.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,126},{175,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{175,87}</string>
+			</dict>
+			<key>res/text_start.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,126},{175,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,87}</string>
+			</dict>
+			<key>res/text_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{202,451},{54,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,86}</string>
+			</dict>
+			<key>res/server_stop.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{383,451},{35,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,36}</string>
+			</dict>
+			<key>res/close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{267,215},{62,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,62}</string>
+			</dict>
+			<key>res/backtotopnormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{472,362},{100,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,30}</string>
+			</dict>
+			<key>res/backtotoppressed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,464},{100,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,30}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>login.png</string>
+			<key>realTextureFileName</key>
+			<string>login.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>
