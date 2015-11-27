@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/ChatIcon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,529},{63,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,47}</string>
+			</dict>
+			<key>res/waitting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,465},{61,62}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+			<key>res/ChatLook.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,333},{66,66}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,77}</string>
+			</dict>
+			<key>res/close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,401},{62,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,62}</string>
+			</dict>
+			<key>res/goback.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,257},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>res/HintFrame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>res/send.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,131},{124,122}}</string>
+				<key>offset</key>
+				<string>{-1,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>common.png</string>
+			<key>realTextureFileName</key>
+			<string>common.png</string>
+			<key>size</key>
+			<string>{256,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>
